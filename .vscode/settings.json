@@ -1,0 +1,7 @@
+{
+    "dart.flutterShowWebServerDevice": "always",
+    "dart.flutterSelectDeviceWhenConnected": true,
+    "dart.flutterRememberSelectedDevice": true,
+    "editor.guides.bracketPairs": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}

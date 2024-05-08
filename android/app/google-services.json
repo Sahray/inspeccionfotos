@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98037837256",
+    "project_id": "appinspections-77c4f",
+    "storage_bucket": "appinspections-77c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98037837256:android:83e134f513681f5a2924fd",
+        "android_client_info": {
+          "package_name": "com.conexsa.app_inspections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfBYbPnzrQwsgfgYsVVqz4Us28dF33f1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
